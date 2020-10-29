@@ -1,0 +1,13 @@
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Workers.resources
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpDepartment.resources
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpPosition.resources
+D:\Denitsa\3-kurs\SBD\KP_SBD\COMPANY\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Search.resources
